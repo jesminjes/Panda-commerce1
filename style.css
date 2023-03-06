@@ -1,0 +1,21 @@
+body{
+    font-family: 'Paytone One', sans-serif;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+}
+nav ul input{
+    border: none;
+    border-radius: 20px;
+    background-color: #f1f1f1;
+    padding: 10px 30px;
+    width: 400px;
+}
+nav ul li{
+    font-size: 25px;
+    margin-right: 30px;
+}
+nav{
+    margin: 10px 15%;
+}
