@@ -19,3 +19,18 @@ nav ul li{
 nav{
     margin: 10px 15%;
 }
+.product-banner-container{
+    margin: 30px 12%;
+}
+.product-banner{
+    background-color: #f1f1f1;
+    border-radius: 20px;
+}
+.buy-btn{
+    background-image: linear-gradient(#FF589f,#ff5898);
+    padding: 15px 20px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+
+}
