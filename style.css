@@ -25,6 +25,10 @@ nav{
 .product-banner{
     background-color: #f1f1f1;
     border-radius: 20px;
+    display: flex;
+}
+.banner-text-price{
+    color: #ff136f;
 }
 .buy-btn{
     background-image: linear-gradient(#FF589f,#ff5898);
@@ -32,5 +36,4 @@ nav{
     border: none;
     border-radius: 10px;
     color: white;
-
 }
